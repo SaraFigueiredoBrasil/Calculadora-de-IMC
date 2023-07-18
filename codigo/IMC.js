@@ -14,7 +14,7 @@ function imc(){
         alert('Valor p5reenchido');
 
     }else{
-        alert('Preencha os campos')
+       resultado.textContent
     }
 
 }
